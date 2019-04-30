@@ -1,7 +1,7 @@
 {
-  "name": "react-scripts",
-  "version": "3.0.0",
-  "description": "Configuration and scripts for Create React App.",
+  "name": "anooprav7-cra",
+  "version": "3.0.0-alpha.1",
+  "description": "Personal scripts version for Create React App.",
   "repository": {
     "type": "git",
     "url": "https://github.com/facebook/create-react-app.git",
