@@ -1,10 +1,10 @@
 {
   "name": "anooprav7-cra-redux",
-  "version": "3.0.0-alpha.3",
+  "version": "3.0.0-alpha.4",
   "description": "Personal scripts version for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/anooprav7/anooprav7-cra-redux.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -12,7 +12,7 @@
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/anooprav7/anooprav7-cra-redux/issues"
   },
   "files": [
     "bin",
