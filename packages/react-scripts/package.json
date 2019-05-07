@@ -1,6 +1,6 @@
 {
-  "name": "@anooprav7/cra",
-  "version": "3.0.0-alpha.1",
+  "name": "anooprav7-cra-redux",
+  "version": "3.0.0-alpha.3",
   "description": "Personal scripts version for Create React App.",
   "repository": {
     "type": "git",
@@ -69,7 +69,10 @@
     "postcss-safe-parser": "4.0.1",
     "react-app-polyfill": "^1.0.0",
     "react-dev-utils": "^9.0.0",
+    "react-redux": "^7.0.3",
     "react-router-dom": "^5.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
     "resolve": "1.10.0",
     "sass-loader": "7.1.0",
     "semver": "6.0.0",
