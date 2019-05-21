@@ -1,0 +1,25 @@
+$Roboto-font-name: Roboto;
+
+$Roboto_Url_Path: 'https://assets.embibe.com/staging/fonts/Roboto/';
+// $Roboto_Url_Path: 'https://s3-ap-southeast-1.amazonaws.com/uts-production.embibe.com/staging/fonts/Roboto/';
+
+@font-face {
+	font-family: $Roboto-font-name;
+	src: url($Roboto_Url_Path+'Roboto-Regular.ttf') format('truetype');
+	font-weight: 400;
+}
+@font-face {
+	font-family: $Roboto-font-name;
+	src: url($Roboto_Url_Path+'Roboto-Medium.ttf') format('truetype');
+	font-weight: 500;
+}
+@font-face {
+	font-family: $Roboto-font-name;
+	src: url($Roboto_Url_Path+'Roboto-Light.ttf') format('truetype');
+	font-weight: 300;
+}
+@font-face {
+	font-family: $Roboto-font-name;
+	src: url($Roboto_Url_Path+'Roboto-Bold.ttf') format('truetype');
+	font-weight: 700;
+}
